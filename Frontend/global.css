@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+.t12 {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 0.875rem !important;
+    font-weight: normal !important;
+}
+
+.t12-sb {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 0.875rem !important;
+    font-weight: 600 !important;
+}
+
+.t14 {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1rem !important;
+    font-weight: normal !important;
+}
+
+.t14-sb {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+}
+
+.h14 {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 1rem !important;
+    font-weight: normal !important;
+    letter-spacing: .25px;
+}
+
+.h14-sb {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    letter-spacing: .25px;
+}
+
+.t16 {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1.1428571429rem !important;
+    font-weight: normal !important;
+}
+
+.t16-sb {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1.1428571429rem !important;
+    font-weight: 600 !important;
+}
+
+.t18 {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1.2857142857rem !important;
+    font-weight: normal !important;
+}
+
+.t18-sb {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1.2857142857rem !important;
+    font-weight: 600 !important;
+}
+
+.h18 {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 1.2857142857rem !important;
+    font-weight: normal !important;
+}
+
+.h18-sb {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 1.2857142857rem !important;
+    font-weight: normal !important;
+}
+
+.t20 {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1.4285714286rem !important;
+    font-weight: normal !important;
+}
+
+.t20-sb {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1.4285714286rem !important;
+    font-weight: 600 !important;
+}
+
+.t24 {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1.7142857143rem !important;
+    font-weight: normal !important;
+}
+
+.t24-sb {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 1.7142857143rem !important;
+    font-weight: 600 !important;
+}
+
+.input-fields, .p-inputtext {
+    width: 250px;
+    border-radius: 5px;
+}
+
+.input-buttons {
+    width: fit-content;
+    border-radius: 0.5rem;
+    height: auto;
+}
+
+.custom-dialog-header {
+    border-bottom: 1px solid #2f3564;
+    padding: 20px;
+}
+
+.custom-dialog-content, .custom-dialog-footer {
+    padding: 20px;
+}
+
+.p-button {
+    border-radius: 5px !important;
+    overflow: visible;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+}
+
+.rides-search {
+    width: 100%;
+    height: 2.5rem;
+}
+
+.p-dialog {
+    min-height: 200px;
+}
+
+.search-field {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    max-width: 100%;
+}
